@@ -1,0 +1,6 @@
+/* Very small custom file to keep the look basic and consistent */
+body { font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; }
+h1, h2, h3, h4, h5, h6 { color: #0b5ed7; }
+.card { border: 1px solid #e9ecef; }
+.navbar-brand { letter-spacing: .5px; }
+img { max-width:100%; display:block; }
